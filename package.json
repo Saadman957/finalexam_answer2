@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saadman957/finalexam_answer2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saadman957/finalexam_answer2/issues"
+  },
+  "homepage": "https://github.com/Saadman957/finalexam_answer2#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
